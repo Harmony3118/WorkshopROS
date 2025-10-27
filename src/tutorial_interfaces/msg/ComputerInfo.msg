@@ -1,0 +1,5 @@
+string computer_name
+string correct_computer_name
+int32 domain_id
+int32 correct_domain_id
+int32 counter
